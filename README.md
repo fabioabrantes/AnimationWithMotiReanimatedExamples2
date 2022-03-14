@@ -1,6 +1,6 @@
 ## Aprendendo Animações no React native com a biblioteca Moti usando o expo
-[documentação  do moti](https://moti.fyi/)
-[documentação do expo](https://docs.expo.dev/)
+- [documentação  do moti](https://moti.fyi/)
+- [documentação do expo](https://docs.expo.dev/)
 
 ### Utilizando um exemplo prático de cardápio de Pizza 
 [![COVER](https://i.pinimg.com/236x/b1/4e/96/b14e967be4d2d4d121ec19d6de13ea7c.jpg)](https://youtu.be/wb6bHqSQAgc)
