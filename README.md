@@ -3,7 +3,7 @@
 - [documentação do expo](https://docs.expo.dev/)
 
 ### Utilizando um exemplo prático de cardápio de Pizza 
-[![COVER](https://i.pinimg.com/236x/b1/4e/96/b14e967be4d2d4d121ec19d6de13ea7c.jpg)](https://youtu.be/wb6bHqSQAgc)
+[![COVER](https://aws1.discourse-cdn.com/nubank/original/3X/0/c/0cfd51f1cb889ce49ab00ce7c076999c9307190d.png)
 
 ## Características:
 ### O que é Moti?
